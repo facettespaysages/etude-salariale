@@ -4,7 +4,7 @@ title:  "Résultats préliminaires 2020"
 ---
 **Depuis le 22 Novembre 2020**, vous avez été **231** à répondre à l'enquête !
 Si vous souhaitez recevoir la prochaine enquête, merci de vous inscrire via [ce formulaire](https://framaforms.org/resultat-etude-salaire-2020-paysagiste-concepteur-1605773216).
-Les données de l'enquête sont disponibles [ici](https://github.com/pocman/etude-salariale-paysagiste-concepteur/blob/master/etude_salaire_2020___paysagiste_concepteur.tsv).
+Les données de l'enquête sont disponibles [ici](https://github.com/facettespaysages/etude-salariale/blob/master/etude_salaire_2020___paysagiste_concepteur.csv).
 # Description des réponses
 ### Sexe
 Parmi les 231 réponses, la parité est respectée avec légèrement plus de femmes. 
