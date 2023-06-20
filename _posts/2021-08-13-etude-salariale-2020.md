@@ -3,7 +3,7 @@ classes: wide
 title:  "Résultats 2020"
 ---
 **Depuis le 22 Novembre 2020**, vous avez été **260** à répondre à l'enquête !
-Les données de l'enquête sont disponibles [ici](https://github.com/pocman/etude-salariale-paysagiste-concepteur/blob/master/etude_salaire_2020___paysagiste_concepteur.csv).
+Les données de l'enquête sont disponibles [ici](https://github.com/pocman/blob/master/etude_salaire_2020___paysagiste_concepteur.csv).
 
 # Description des réponses
 ### Sexe
@@ -16,10 +16,10 @@ Concernant la répartition géographique, 24% des réponses portent sur l'île d
 ### Ecole diplômante
 L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les réponses avec respectivement 22% et 16% des réponses, suivies par l'ENSAPL et l'ENSAPBX.
 
-![Pourcentage de réponses en fonction de l'école diplômante](/etude-salariale-paysagiste-concepteur/assets/images/2020/count_ecole.png)
+![Pourcentage de réponses en fonction de l'école diplômante](/assets/images/2020/count_ecole.png)
 
 ### Type de poste
-![Pourcentage de réponses en fonction du type de poste occupé](/etude-salariale-paysagiste-concepteur/assets/images/2020/type_poste.png)
+![Pourcentage de réponses en fonction du type de poste occupé](/assets/images/2020/type_poste.png)
 
 ### Expérience des répondant.e.s
 Nous avons posé deux questions relatives à l'expérience des répondant.e.s.
@@ -41,7 +41,7 @@ Pour la suite de l'analyse, nous avons décidé de découper la population en 4 
 ### Expérience en fonction du type de poste
 Les postes occupés par les personnes avec le plus d’années d’expérience sont les directeur.trice.s de société, les chef.fe.s de projet confirmé.e.s et les chargé.e.s d’étude confirmé.e.s.
 
-![Expérience en fonction du type de poste](/etude-salariale-paysagiste-concepteur/assets/images/2020/xp_poste.png)
+![Expérience en fonction du type de poste](/assets/images/2020/xp_poste.png)
 
 Lecture d'une boîte à moustache :
 * pour chaque type de poste, la boite (le rectangle) contient 50% des réponses. 
@@ -61,7 +61,7 @@ Environ 25% des répondant.e.s sont sous la convention Syntec, 24% sous la Conve
 ## Télétravail
 Une écrasante majorité des répondant.e.s est favorable au télétravail (12.7% à temps complet et 71.2% si flexible). 
 
-![Pourcentage de réponses par catégorie d'avis par rapport au télétravail](/etude-salariale-paysagiste-concepteur/assets/images/2020/remote.png)
+![Pourcentage de réponses par catégorie d'avis par rapport au télétravail](/assets/images/2020/remote.png)
 
 Les femmes sont globalement plus favorables au télétravail que les hommes (90% contre 79%).
 Le nombre d'enfants à charge ne semble pas impacter significativement les répondant.e.s.
@@ -115,7 +115,7 @@ Elle comprend deux types de revenu :
 
 On peut voir que si les rémunérations en sortie d'école sont similaires avec une moyenne d'environ 1800€ net mensuel imposable, l'écart se creuse par la suite.
 
-![Moyenne des salaires par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/rem_sexe.png)
+![Moyenne des salaires par années depuis sortie de formation initiale et sexe](/assets/images/2020/rem_sexe.png)
 
 ## Distribution des rémunérations nettes imposables mensualisées en 2021 par type de poste
 
@@ -128,18 +128,18 @@ Lecture d'une boîte à moustache :
 
 Pour en savoir plus sur les diagrammes en boîte à moustaches, [cliquez ici](https://fr.wikipedia.org/wiki/Bo%C3%AEte_%C3%A0_moustaches).
 
-![Moyenne des rémunérations net imposables mensualisées par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/rem_france.png)
+![Moyenne des rémunérations net imposables mensualisées par années depuis sortie de formation initiale et sexe](/assets/images/2020/rem_france.png)
 
 Exemple: 75% des chef(fe)s de projet débutants ont une rémunération inférieure à 2000€ net mensuel imposable.
 
 ### Province (180 répondant.e.s)
 
-![Moyenne des rémunérations net imposables mensualisées par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/province.png)
+![Moyenne des rémunérations net imposables mensualisées par années depuis sortie de formation initiale et sexe](/assets/images/2020/province.png)
 
 Exemple: 50% des chargé(e)s d'études confirmés ont une rémunération supérieure à 2000€ net mensuel imposable en province.
 
 ### Île-de-france, Paris inclus (47 répondant.e.s)
 
-![Moyenne des rémunérations net imposables mensualisées par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/ile-de-france.png)
+![Moyenne des rémunérations net imposables mensualisées par années depuis sortie de formation initiale et sexe](/assets/images/2020/ile-de-france.png)
 
 Exemple: 50% des répondants ont une rémunération supérieure à 2500€ net mensuel imposable en Île-de-france.

@@ -4,7 +4,7 @@ title:  "Résultats 2019"
 ---
 **Depuis le 1er Novembre 2019**, vous avez été **430** à répondre à l'enquête, c'est 50% de plus que l'année dernière !
 Si vous souhaitez recevoir la prochaine enquête, merci de vous inscrire via [ce formulaire](https://framaforms.org/resultat-etude-salaire-2022-paysagiste-concepteur-1605773216).
-Les données de l'enquête sont disponibles [ici](https://github.com/pocman/etude-salariale-paysagiste-concepteur/blob/master/etude_salaire_2019___paysagiste_concepteur.csv).
+Les données de l'enquête sont disponibles [ici](https://github.com/pocman/blob/master/etude_salaire_2019___paysagiste_concepteur.csv).
 # Description des réponses
 Parmi les 430 réponses, 20 n'ont pas été exploitées.
 
@@ -18,7 +18,7 @@ Concernant la répartition géographique, 31% des réponses portent sur l'île d
 ### Ecole diplômante
 L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les réponses.
 
-![Pourcentage de réponses en fonction de l'école diplômante](/etude-salariale-paysagiste-concepteur/assets/images/2019/Pourcentage-réponses-école-diplômante.png)
+![Pourcentage de réponses en fonction de l'école diplômante](/assets/images/2019/Pourcentage-réponses-école-diplômante.png)
 
 ### Expérience des répondant.e.s
 Nous avons posé deux questions relatives à l'expérience des répondant.e.s.
@@ -54,16 +54,16 @@ Une part importante des répondant.e.s travaille en agence de conception, à hau
 Les structures de 2 à 5 personnes représentent 25% des réponses. Ensuite, les structures de 11 à 50 personnes et celles de 51 et + représentent chacune environ 20% des réponses.
 Les structures les plus représentées sont les agences de conception de 2 à 5 personnes avec 16,5% des réponses, puis les agences de conception de 6 à 10 personnes avec 10,5% des réponses.
  
-![Nombre de réponses en fonction du type et de la taille des structures](/etude-salariale-paysagiste-concepteur/assets/images/2019/Nombre-réponses-type-taille-structures.png)
+![Nombre de réponses en fonction du type et de la taille des structures](/assets/images/2019/Nombre-réponses-type-taille-structures.png)
 *Les couleurs représentent les tailles de structures: 1 personnes, 2 à 5, 6 à 10, 51+. La première barre correspond aux agences de conception de 2 à 5 personnes.*
 
 ### Types de postes
 Les chargé.e.s d'étude et les chef.fe.s de projet sont les plus représentés avec respectivement 19,4% et 15,1% des réponses.
-![Pourcentage de réponses en fonction de l'école diplômante](/etude-salariale-paysagiste-concepteur/assets/images/2019/réponses-type-poste-sans-freelances.png)
+![Pourcentage de réponses en fonction de l'école diplômante](/assets/images/2019/réponses-type-poste-sans-freelances.png)
 
 Voici le nombre de réponses par type de poste et par sexe. 
 Dans ce graphique, les types de postes sont aggrégés de manière à regrouper les réponses sans prendre en compte l'expérience.
-![](/etude-salariale-paysagiste-concepteur/assets/images/2019/Nombre-réponses-type-poste-aggrégé-sexe.png)
+![](/assets/images/2019/Nombre-réponses-type-poste-aggrégé-sexe.png)
 
 # Analyse des réponses
 ## Temps partiel et satisfaction au travail
@@ -87,7 +87,7 @@ Au global, on peut observer que les personnes à temps partiel sont plus satisfa
 Les personnes travaillant plus de 40 heures hebdomadaires sont peu satisfaites de leur temps de travail, 
 mais les hommes dans cette situation sont globalement plus satisfaits de leur emploi que les femmes.
 
-![Moyenne de la satisfaction du temps de trvail en fonction du temps de travail](/etude-salariale-paysagiste-concepteur/assets/images/2019/Moyenne-satisfaction-temps-travail-fonction-temps-travail.png)
+![Moyenne de la satisfaction du temps de trvail en fonction du temps de travail](/assets/images/2019/Moyenne-satisfaction-temps-travail-fonction-temps-travail.png)
 
 ## Salaire
 En 2020, les jeunes salarié.e.s sorti.e.s depuis 0 à 3 ans de formation initiale perçoivent un salaire net moyen mensuel (tous temps de travail confondus) 
@@ -137,7 +137,7 @@ Pour comparaison, voici l'étude [INSEE 2019](https://www.insee.fr/fr/statistiqu
 ## Expérience en fonction du type de poste
 Les postes occupés par les personnes avec le plus d'années d'expérience sont les directeur.trice.s de société, les chef.fe.s de projet confirmé.e.s et les chargé.e.s d'étude confirmé.e.s.
 
-![Expérience en fonction du type de poste](/etude-salariale-paysagiste-concepteur/assets/images/2019/Moyenne-années-expérience-fonction-type-poste.png)
+![Expérience en fonction du type de poste](/assets/images/2019/Moyenne-années-expérience-fonction-type-poste.png)
 
 ## Distribution des salaires équivalent temps plein mensuels nets en 2020 par type de poste
 Les chef.fe.s de projet confirmé.e.s et les chargé.e.s d'étude confirmé.e.s ont les salaires médians équivalent temps plein les plus élevés.
@@ -145,14 +145,14 @@ Les chef.fe.s de projet confirmé.e.s et les chargé.e.s d'étude confirmé.e.s 
 Lecture: pour chaque type de poste, la boite (le rectangle) contient 50% des réponses. 
 La ligne qui divise la boite représente la médiane (50% des personnes ont une rémunération supérieure à cette valeur).
 
-![Distribution des salaires équivalent temps plein mensuels nets en 2020 par type de poste](/etude-salariale-paysagiste-concepteur/assets/images/2019/salaire-type-de-poste-moustaches.png)
+![Distribution des salaires équivalent temps plein mensuels nets en 2020 par type de poste](/assets/images/2019/salaire-type-de-poste-moustaches.png)
 
 ## Distribution des salaires équivalent temps plein mensuels nets en 2020 par expérience
 
 Lecture: pour chaque niveau d'expérience, la boite (le rectangle) contient 50% des réponses. 
 La ligne qui divise la boite représente la médiane (50% des personnes ont une rémunération supérieure à cette valeur).
 
-![Distribution des salaires équivalent temps plein mensuels nets en 2020 par expérience](/etude-salariale-paysagiste-concepteur/assets/images/2019/salaire-experience-moustaches.png)
+![Distribution des salaires équivalent temps plein mensuels nets en 2020 par expérience](/assets/images/2019/salaire-experience-moustaches.png)
 
 
 ## Satisfaction au travail en fonction du type de contrat
@@ -186,11 +186,11 @@ La satisfaction est notée de **0 - Pas du tout satisfait** à **5 - Très satis
 Les personnes les plus satisfaites au travail sont les dirigeant.es de SARL, les moins satisfaites sont les personnes en C.D.D.
 On observe une différence de satisfaction au travail entre homme et femme chez les dirigeant.e.s, les fonctionnaires et les auto-entrepreneur.se.s.
 La satisfaction est homogène entre les sexes pour les personnes en C.D.I et en C.D.D.
-![Moyenne de la satisfaction globale en fonction du statut et du sexe](/etude-salariale-paysagiste-concepteur/assets/images/2019/Moyenne-de-la-satisfaction-globale-en-fonction-du-statut-et-du-sexe.png)
+![Moyenne de la satisfaction globale en fonction du statut et du sexe](/assets/images/2019/Moyenne-de-la-satisfaction-globale-en-fonction-du-statut-et-du-sexe.png)
 
-![Moyenne de la satisfaction du temps de travail en fonction du statut et du sexe](/etude-salariale-paysagiste-concepteur/assets/images/2019/Moyenne-satisfaction-temps-travail.png)
+![Moyenne de la satisfaction du temps de travail en fonction du statut et du sexe](/assets/images/2019/Moyenne-satisfaction-temps-travail.png)
 
-![Moyenne de la satisfaction de la rémunération en fonction du statut et du sexe](/etude-salariale-paysagiste-concepteur/assets/images/2019/Moyenne-de-la-satisfaction-rémunération.png)
+![Moyenne de la satisfaction de la rémunération en fonction du statut et du sexe](/assets/images/2019/Moyenne-de-la-satisfaction-rémunération.png)
 
 ## Parité au sein des dirigeant.e.s en fonction de la taille de la structure
 Malgré une parité au sein des répondant.e.s, on observe que les femmes sont sous représentées au sein des dirigeant.e.s.

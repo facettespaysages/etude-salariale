@@ -11,15 +11,15 @@ La parité est presque respectée avec *50 femmes et 54 hommes*.
 
 ### Etes-vous satisfait(e) de votre emploi ?
 
-![Bar chart satisfaction générale](/etude-salariale-paysagiste-concepteur/assets/images/2019/job_satisfaction.png)
+![Bar chart satisfaction générale](/assets/images/2019/job_satisfaction.png)
 
 ### Etes-vous satisfait(e) de votre rémunération ?
 
-![Bar chart satisfaction rémunération](/etude-salariale-paysagiste-concepteur/assets/images/2019/rem_satisfaction.png)
+![Bar chart satisfaction rémunération](/assets/images/2019/rem_satisfaction.png)
 
 ## Quelle est la répartition des salaires parmi les répondants ?
 
-![Histogramme des salaires bruts](/etude-salariale-paysagiste-concepteur/assets/images/2019/rem_hist.png)
+![Histogramme des salaires bruts](/assets/images/2019/rem_hist.png)
 
 ### Statut en fonction du sexe
 On peut remarquer une précarité accrue chez les femmes, avec *40%* de statuts précaires (CDD et Auto-entrepreneur), contre *22%* chez les hommes.
@@ -48,7 +48,7 @@ On remarque un écart moyen de *3 heures* de temps de travail hebdomadaire entre
 | Homme                 | 40,9                                                        |
 | Moyenne générale      | 39,4                                                        |
 
-![Bar chart satisfaction horaire](/etude-salariale-paysagiste-concepteur/assets/images/2019/work_load_satisfaction.png)
+![Bar chart satisfaction horaire](/assets/images/2019/work_load_satisfaction.png)
 
 ### Ecoles
 On peut sans doute faire beaucoup mieux, à vos réseaux !

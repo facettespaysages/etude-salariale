@@ -16,10 +16,10 @@ Concernant la répartition géographique, 26% des réponses portent sur l'île d
 ### Ecole diplômante
 L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les réponses avec respectivement 23% et 16% des réponses, suivies par l'ENSAPL et l'ENSAPBX.
 
-![Pourcentage de réponses en fonction de l'école diplômante](/etude-salariale-paysagiste-concepteur/assets/images/2020/count_ecole.png)
+![Pourcentage de réponses en fonction de l'école diplômante](/assets/images/2020/count_ecole.png)
 
 ### Type de poste
-![Pourcentage de réponses en fonction du type de poste occupé](/etude-salariale-paysagiste-concepteur/assets/images/2020/type_poste.png)
+![Pourcentage de réponses en fonction du type de poste occupé](/assets/images/2020/type_poste.png)
 
 ### Expérience des répondant.e.s
 Nous avons posé deux questions relatives à l'expérience des répondant.e.s.
@@ -47,7 +47,7 @@ Environ 25% des répondant.e.s sont sous la convention Syntec, 24% sous la Conve
 ## Télétravail
 Une écrasante majorité des répondant.e.s est favorable au télétravail (12.9% à temps complet et 71.9% si flexible). 
 
-![Pourcentage de réponses par catégorie d'avis par rapport au télétravail](/etude-salariale-paysagiste-concepteur/assets/images/2020/remote.png)
+![Pourcentage de réponses par catégorie d'avis par rapport au télétravail](/assets/images/2020/remote.png)
 
 Les femmes sont globalement plus favorables au télétravail que les hommes (90,3% contre 78,7%).
 
