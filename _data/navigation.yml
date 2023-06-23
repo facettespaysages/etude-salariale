@@ -8,5 +8,7 @@ main:
      url: /etude-salariale-2019/
    - title: "Résultats 2018"
      url: /etude-salariale-2018/
+   - title: "Facettes Paysages"
+     url: https://www.facettes.bzh/
    - title: "Contact"
      url: https://www.facettes.bzh/contact/
