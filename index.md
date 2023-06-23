@@ -4,7 +4,6 @@ classes: wide
 author_profile: true
 ---
 
-# Enquête 2022
 L'enquête 2022 est en cours ! 
 Pour gagner en pertinence, n'hésitez pas à partager votre expérience en répondant sur **[cette page](https://framaforms.org/etude-remuneration-2022-paysagiste-concepteur-1670675351) d'ici le 31 juillet 2023** (date de clôture de l'étude).
 
