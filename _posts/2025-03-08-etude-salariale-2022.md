@@ -60,7 +60,7 @@ C'est une évolution importante par rapport à l'année précédente où la conv
 15% des répondant.e.s ne savent pas de quelle convention ils ou elles dépendent.
 
 # Analyse des réponses
-## Distribution des rémunérations nettes imposables mensualisées en 2021 par type de poste
+## Distribution des rémunérations annuelles par type de poste
 
 ![Moyenne des rémunérations net imposables mensualisées par années depuis sortie de formation initiale et sexe](/assets/images/2022/rem_poste.png)
 
