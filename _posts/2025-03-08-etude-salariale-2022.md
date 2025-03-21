@@ -62,6 +62,34 @@ C'est une évolution importante par rapport à l'année précédente où la conv
 # Analyse des réponses
 ## Distribution des rémunérations annuelles par type de poste
 
-![Moyenne des rémunérations net imposables mensualisées par années depuis sortie de formation initiale et sexe](/assets/images/2022/rem_poste.png)
+![Moyenne des rémunérations net imposables mensualisées par années par type de poste](/assets/images/2022/rem_poste.png)
 
 Exemple: 75% des chef(fe)s de projet ont une rémunération inférieure à 30k€ annuel net imposable.
+
+## Analyse de la rémunération des chef.fe.s de projet
+C'est la catégorie la plus représentée dans l'etude avec 28 réponses.
+
+## Rémunerations en fonction de l'expérience
+On observe bien une augmentation de la rémunération en fonction de l'intitulé du poste du nombre d'années d'expérience.
+
+![Moyenne des rémunérations net imposables mensualisées par intitulé de poste](/assets/images/2022/rem_chef.png)
+![Moyenne des rémunérations net imposables mensualisées par années d'expérience](/assets/images/2022/exp_rem.png)
+
+## Rémunerations en fonction de la region
+La médiane est significativement plus élevée en Ile de France.
+
+![Moyenne des rémunérations net imposables mensualisées en Ile de France vs Province](/assets/images/2022/rem_region_chef.png)
+
+## Satisfaction charge horaire
+Les résultats semblent indiquer que les personnes satisfaites de leur charge horaires sont les mieux rémunérées.
+
+![Moyenne des rémunérations net imposables mensualisées par satisfaction de charge horaire](/assets/images/2022/satis_horaire.png)
+![Moyenne du temps de travail par satisfaction de charge horaire](/assets/images/2022/temps_travail_chef.png)
+
+## Satisfaction rémunération
+Pas de surprise ici, les personnes satisfaites de leur rémunération sont les mieux rémunérées.
+
+![Moyenne des rémunérations net imposables mensualisées par satisfaction de rémunération](/assets/images/2022/satis_chef.png)
+
+## Analyse de la rémunération des chargé.e.s d'études
+En chantier ...
