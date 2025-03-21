@@ -46,9 +46,9 @@ Les postes occupés par les personnes avec le plus d’années d’expérience s
 
 Lecture d'une boîte à moustache :
 * pour chaque type de poste, la boite (le rectangle) contient 50% des réponses. 
-* La ligne qui divise la boite représente la médiane (50% des personnes ont une rémunération supérieure à cette valeur).
-* Le haut de la boite correspond au 3ème quartile (25% des personnes ont une rémunération supérieure à cette valeur).
-* Le bas de la boite correspond au 1ème quartile (75% des personnes ont une rémunération supérieure à cette valeur).
+* La ligne qui divise la boite représente la médiane (50% des personnes ont un nombre d'années d’expérience supérieure à cette valeur).
+* Le haut de la boite correspond au 3ème quartile (25% des personnes ont un nombre d'années d’expérience supérieure à cette valeur).
+* Le bas de la boite correspond au 1ème quartile (75% des personnes ont un nombre d'années d’expérience supérieure à cette valeur).
 * Le minimum et maximum sont représentés par les extrémités des traits.
 
 Pour en savoir plus sur les diagrammes en boîte à moustaches, [cliquez ici](https://fr.wikipedia.org/wiki/Bo%C3%AEte_%C3%A0_moustaches).
